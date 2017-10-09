@@ -1,0 +1,29 @@
+html {
+  overflow-y: auto;
+}
+
+.table__overflow {
+  overflow-x: hidden;
+}
+
+table td {
+  width: 25%;
+}
+
+.actions-column {
+  width: 30px;
+}
+
+.icon-delete {
+  font-size: 12px;
+  padding: 5px 10px;
+}
+
+.column-delete-btn {
+  min-width: 20px;
+  height: auto;
+}
+
+.column-delete-btn>.btn__content {
+  padding: 0;
+}

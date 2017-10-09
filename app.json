@@ -1,0 +1,7 @@
+{
+  "name": "Vue api table",
+  "description": "Api table used vuetify framework",
+  "repository": "https://github.com/jancusra/vue-api-table",
+  "keywords": [ "vue", "api", "table" ],
+  "stack": "heroku-16"
+}
